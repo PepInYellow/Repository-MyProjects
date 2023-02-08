@@ -1,0 +1,1282 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.18f1 (3129e69bc0c7) revision 3221990'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'it' Physical Memory: 32712 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.18f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Projects/Maze Assignment 12.1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62074
+Successfully changed project path to: D:/Unity Projects/Maze Assignment 12.1
+D:/Unity Projects/Maze Assignment 12.1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [13912] Host "[IP] 192.168.1.14 [Port] 0 [Flags] 2 [Guid] 1494109737 [EditorId] 1494109737 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-KOM480J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [13912] Host "[IP] 192.168.1.14 [Port] 0 [Flags] 2 [Guid] 1494109737 [EditorId] 1494109737 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-KOM480J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 74.54 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.50 ms.
+Initialize engine version: 2021.3.18f1 (3129e69bc0c7)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Projects/Maze Assignment 12.1/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3090 (ID=0x2204)
+    Vendor:   NVIDIA
+    VRAM:     24348 MB
+    Driver:   31.0.15.1694
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56044
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007755 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 180 ms
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 71.62 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.657 seconds
+Domain Reload Profiling:
+	ReloadAssembly (657ms)
+		BeginReloadAssembly (51ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (528ms)
+			LoadAssemblies (50ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (70ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (18ms)
+			SetupLoadedEditorAssemblies (404ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (244ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (72ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (60ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004451 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 75.38 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.04 ms.
+Package Manager log level set to [2]
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in D:\Unity Projects\Maze Assignment 12.1\Library\PackageCache\com.unity.xr.oculus@3.2.2\Runtime\OculusLoader.cs:296 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in D:\Unity Projects\Maze Assignment 12.1\Library\PackageCache\com.unity.xr.oculus@3.2.2\Runtime\OculusLoader.cs:281 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <1f66344f2f89470293d8b67d71308c07>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <1f66344f2f89470293d8b67d71308c07>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <1f66344f2f89470293d8b67d71308c07>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <42a64fd733d9417da1ea3a757ad9a96d>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Domain Reload Profiling:
+	ReloadAssembly (868ms)
+		BeginReloadAssembly (77ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (713ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (181ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (386ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (21ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (75ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (191ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.95 ms, found 6 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 4254 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (167.2 KB). Loaded Objects now: 4720.
+Memory consumption went from 153.9 MB to 153.7 MB.
+Total: 3.294200 ms (FindLiveObjects: 0.289600 ms CreateObjectMapping: 0.147400 ms MarkObjects: 2.719000 ms  DeleteObjects: 0.137600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 87869.797353 seconds.
+  path: Assets/LowPolyInterior/Prefabs
+  artifactKey: Guid(a3327fb8fbf2a344ab05983c0abc108b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs using Guid(a3327fb8fbf2a344ab05983c0abc108b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5b4fc98c0d6a981f70ba58814ef5a70') in 0.011304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Bathroom
+  artifactKey: Guid(cab23634460db5e4fa719192d82d794c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Bathroom using Guid(cab23634460db5e4fa719192d82d794c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed3b478c299a2b8b18964346a45fc3c7') in 0.004707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/LowPolyInterior
+  artifactKey: Guid(440ea9ae48f497c4d9f36798933cd1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior using Guid(440ea9ae48f497c4d9f36798933cd1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86e1bc1863148d7378d1cdad71f7d1f4') in 0.004592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.243945 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor
+  artifactKey: Guid(bb303e4a58819424185e930b257d6b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor using Guid(bb303e4a58819424185e930b257d6b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '975171b0340eca203c998c092ca98712') in 0.004414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.680254 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_01.prefab
+  artifactKey: Guid(7dcf608f1c1348443b81d8440de96d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_01.prefab using Guid(7dcf608f1c1348443b81d8440de96d0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc0adef91d545da0476fac627d44c3e8') in 0.195538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.999844 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_02.prefab
+  artifactKey: Guid(11faa60ff496c5f44ac54cf0ade1290b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_02.prefab using Guid(11faa60ff496c5f44ac54cf0ade1290b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc59d5661e9ec8a1f57bbeb5343fb522') in 0.010276 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.820221 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_03.prefab
+  artifactKey: Guid(ba9da9015e0d54e4f9de45230109ec9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_03.prefab using Guid(ba9da9015e0d54e4f9de45230109ec9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c72fa355005947ec334aa7de964c001') in 0.009535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.129209 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_04.prefab
+  artifactKey: Guid(b6415ad574b7af140a7c8b9de0956a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_04.prefab using Guid(b6415ad574b7af140a7c8b9de0956a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3879a15d95290f235e04e8aa26e4d76') in 0.008845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.137200 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_05.prefab
+  artifactKey: Guid(a11b5d3b7995272448c8a708151488c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_05.prefab using Guid(a11b5d3b7995272448c8a708151488c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae504f6cacb8346625afb63f9ea494a') in 0.009435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.185792 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_06.prefab
+  artifactKey: Guid(bbd32a536a25c2346b8d72c00cb7f191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_06.prefab using Guid(bbd32a536a25c2346b8d72c00cb7f191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2233a79b2062b6853c46decfb067e3e') in 0.008969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.495112 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_07.prefab
+  artifactKey: Guid(fb3ea3ef1606cb049bcd7b783fee6ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_07.prefab using Guid(fb3ea3ef1606cb049bcd7b783fee6ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd3d5c397dfec5affd076859ca3d718') in 0.013451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022068 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_08.prefab
+  artifactKey: Guid(2f9f23c6b5bec6d419e9346427bb16de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_08.prefab using Guid(2f9f23c6b5bec6d419e9346427bb16de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9d7a7a96c141914172795b24aa3b521') in 0.009129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032798 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_09.prefab
+  artifactKey: Guid(aa88680038976f241893b1fcbdecb2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_09.prefab using Guid(aa88680038976f241893b1fcbdecb2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48586d5667102cc0d96a13eb4709b173') in 0.009887 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017023 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_10.prefab
+  artifactKey: Guid(5aedd7c0ef8da864daeefeb610f1b7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_10.prefab using Guid(5aedd7c0ef8da864daeefeb610f1b7b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd209acd9858a0d3ed95066859e74b61f') in 0.011034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004586 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_11.prefab
+  artifactKey: Guid(326d90dc2b980594a97add96772d27cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_11.prefab using Guid(326d90dc2b980594a97add96772d27cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e74a3006b36b4608253c1b63ca7473e') in 0.009083 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026335 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_12.prefab
+  artifactKey: Guid(60dd85dea01ee7443a93b6e2dfe7a516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_12.prefab using Guid(60dd85dea01ee7443a93b6e2dfe7a516) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4bb26f8c447aaacf8c87eb5bbe65dcf') in 0.009305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013262 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_13.prefab
+  artifactKey: Guid(0cf356f6077fb25459ef378ce3287bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_13.prefab using Guid(0cf356f6077fb25459ef378ce3287bae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39615574e1cd1727d73abc55f9c1f7b1') in 0.009377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020923 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_14.prefab
+  artifactKey: Guid(c6abfb1ce2a33ec4ab92603059c8935d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_14.prefab using Guid(c6abfb1ce2a33ec4ab92603059c8935d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd26127f5475188d1a35f49c7edb707') in 0.009846 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012801 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_15.prefab
+  artifactKey: Guid(b1411518024f9644498e17f7ba607dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_15.prefab using Guid(b1411518024f9644498e17f7ba607dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf0596d0fe8cc4b4efe1046ba72b03be') in 0.008772 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022779 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_16.prefab
+  artifactKey: Guid(3d5dfadf24d28074384721e69d554ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_16.prefab using Guid(3d5dfadf24d28074384721e69d554ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219722bddd4d490756ad8ccd5877317f') in 0.010951 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.368052 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_17.prefab
+  artifactKey: Guid(1466f1b091c3e0049aeb8fc34c6ed6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_17.prefab using Guid(1466f1b091c3e0049aeb8fc34c6ed6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04447caa9084f157693720e780baabf9') in 0.019623 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.651790 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_18.prefab
+  artifactKey: Guid(f84b34d21c6ee0d4baca54d2b81287c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_18.prefab using Guid(f84b34d21c6ee0d4baca54d2b81287c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14ac1a658691d393f09fb14291034cd2') in 0.008858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.499546 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_19.prefab
+  artifactKey: Guid(09662ebe12c0e1d48aac56abb6536c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_19.prefab using Guid(09662ebe12c0e1d48aac56abb6536c7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb806c248d512feef6b7d9b073b5dbc') in 0.009258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022314 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_20.prefab
+  artifactKey: Guid(78e7d7be6994bb74fa5de0526369cf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_20.prefab using Guid(78e7d7be6994bb74fa5de0526369cf79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb9fb593e1812a42fef98df97c57f43') in 0.009196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013682 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_21.prefab
+  artifactKey: Guid(e3726229c181095418963a310f3c2266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_21.prefab using Guid(e3726229c181095418963a310f3c2266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6002222036f86a73d64f227106bf04cc') in 0.009423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020792 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_22.prefab
+  artifactKey: Guid(54cf091b2342db84d9b9b3c5e7ae7a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_22.prefab using Guid(54cf091b2342db84d9b9b3c5e7ae7a2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7728eb2e7c5877ef804427251ff39cf8') in 0.009133 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013129 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_23.prefab
+  artifactKey: Guid(adb027301a6e5754e81699233d8257df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_23.prefab using Guid(adb027301a6e5754e81699233d8257df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b174c354177edafc6bdc7b6361926f') in 0.008897 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025305 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_24.prefab
+  artifactKey: Guid(286c96f290fd2954dbcc666ebf01e255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_24.prefab using Guid(286c96f290fd2954dbcc666ebf01e255) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15be97f84511ccd06ecbc1468579672d') in 0.015479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013967 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_25.prefab
+  artifactKey: Guid(ab3dfe608e1198f4db67ddddcbeb6668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_25.prefab using Guid(ab3dfe608e1198f4db67ddddcbeb6668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c513c8b9ebcc5a83a6321ff77681ff6') in 0.013884 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008759 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_26.prefab
+  artifactKey: Guid(3f9f0539f02aa194b984f43bf7bba756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_26.prefab using Guid(3f9f0539f02aa194b984f43bf7bba756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f34987edc1a1dd2324122f608c5870') in 0.015084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017522 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_27.prefab
+  artifactKey: Guid(f3d028f8f8bbaa148a5de39af2a09ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_27.prefab using Guid(f3d028f8f8bbaa148a5de39af2a09ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b87fbf4351d129062dac7d49f3be05') in 0.015087 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014436 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Floor/Floor_28.prefab
+  artifactKey: Guid(5cf40183208845844bb12709b2a3ab8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Floor/Floor_28.prefab using Guid(5cf40183208845844bb12709b2a3ab8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c40307a3fd719b74078cc2f6a0252d8') in 0.014228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 443.228004 seconds.
+  path: Assets/LowPolyInterior/Models/Walls
+  artifactKey: Guid(ad3937e66858c6f42862c400512aa99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls using Guid(ad3937e66858c6f42862c400512aa99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1d284aa1b8d1d3b6950675d8138216') in 0.004520 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.473228 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_01.fbx
+  artifactKey: Guid(10d2db88a89166c4b9454c214ef4f77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_01.fbx using Guid(10d2db88a89166c4b9454c214ef4f77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '449cfc4a81e3461bdda28cde6621b229') in 0.076454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.856187 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_02.fbx
+  artifactKey: Guid(1069011adb764a342972f4e4a39dfa5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_02.fbx using Guid(1069011adb764a342972f4e4a39dfa5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee932c411586da84f5fb1df58eb89c36') in 0.009810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.145025 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_03.fbx
+  artifactKey: Guid(b9641cb18eb151140b463e86de99a082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_03.fbx using Guid(b9641cb18eb151140b463e86de99a082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '080468d0d00a09e77ff7ea6a0ae893c0') in 0.009783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.130147 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_04.fbx
+  artifactKey: Guid(227e9a255da783f49962dcf091d521fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_04.fbx using Guid(227e9a255da783f49962dcf091d521fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40b694f8067270306870984a7dacb1de') in 0.009541 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.487766 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_05.fbx
+  artifactKey: Guid(4c6f977b3b9509d4d995205800dbf3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_05.fbx using Guid(4c6f977b3b9509d4d995205800dbf3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59830c79c649e09362edcfd040e24884') in 0.009315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029740 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_06.fbx
+  artifactKey: Guid(d194444cadf1b2e4b8d1f448ec6c52f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_06.fbx using Guid(d194444cadf1b2e4b8d1f448ec6c52f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008057e751f3210ffa3973ee4f402f44') in 0.009419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032161 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_07.fbx
+  artifactKey: Guid(fc5ff300a31236847815f7397cb619c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_07.fbx using Guid(fc5ff300a31236847815f7397cb619c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cf9bc5a6a1beb3917ab2f676eb177c8') in 0.009482 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004348 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_08.fbx
+  artifactKey: Guid(14b00dd3fc949404c9fea9ce9b829758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_08.fbx using Guid(14b00dd3fc949404c9fea9ce9b829758) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29d606e89630333a4713fb45ee324db') in 0.009681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015126 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_09.fbx
+  artifactKey: Guid(470685e51bc1b5f4d99ad0d671623ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_09.fbx using Guid(470685e51bc1b5f4d99ad0d671623ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd918d2d73974658697ceea0aa1724615') in 0.009227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020206 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_10.fbx
+  artifactKey: Guid(dfd9e27467a133b44b848f06fd84278d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_10.fbx using Guid(dfd9e27467a133b44b848f06fd84278d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e53604bfed4f6efad5654a748cf39e') in 0.009333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020646 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_11.fbx
+  artifactKey: Guid(1777fd18912ddb34d945faed163a0b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_11.fbx using Guid(1777fd18912ddb34d945faed163a0b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '171f7808a8356f62ec5c9e8f4e634ebb') in 0.009184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012316 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_12.fbx
+  artifactKey: Guid(4baa246476182744bb6bc1f921f1ab20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_12.fbx using Guid(4baa246476182744bb6bc1f921f1ab20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263adda36a0cc57f7fcf16a41c1d8a98') in 0.009814 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018662 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_13.fbx
+  artifactKey: Guid(2bf1b45b1dc5d4a4f8a3fb52bdd324ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_13.fbx using Guid(2bf1b45b1dc5d4a4f8a3fb52bdd324ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27e08dff9911a883344103486cf3df37') in 0.009452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027297 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_14.fbx
+  artifactKey: Guid(e7e7c346c56809d4d8e6589db6ac7aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_14.fbx using Guid(e7e7c346c56809d4d8e6589db6ac7aeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab5bb7b57f6fac200053365230d07a58') in 0.009681 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019262 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_15.fbx
+  artifactKey: Guid(7421979fa1150094aaa06426ee813a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_15.fbx using Guid(7421979fa1150094aaa06426ee813a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea5d306acd32d28cde722ad7ae0c9c19') in 0.009420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019384 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Corner_16.fbx
+  artifactKey: Guid(84221acb4e61a08428a80a218fbce87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Corner_16.fbx using Guid(84221acb4e61a08428a80a218fbce87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f7d473343a957b0ac55017ce2dc754') in 0.009611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019027 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Door_01.fbx
+  artifactKey: Guid(a3439036c24dbb54493328fcc2b1b2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Door_01.fbx using Guid(a3439036c24dbb54493328fcc2b1b2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf0e92d210ff45ea0f1785c2312747f') in 0.009526 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011512 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Door_02.fbx
+  artifactKey: Guid(9b7d8675132578447a8f2fda07f6fe9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Door_02.fbx using Guid(9b7d8675132578447a8f2fda07f6fe9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4aceccd4bc68f3d92f26dd46d2a963c4') in 0.010025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023287 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Door_03.fbx
+  artifactKey: Guid(9cf681547e3ed87438c955f1fec6367a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Door_03.fbx using Guid(9cf681547e3ed87438c955f1fec6367a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c197966d79aeb871e5bbfd23694c758') in 0.009605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021075 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Door_04.fbx
+  artifactKey: Guid(89800be33369c07418ec9fe483d66596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Door_04.fbx using Guid(89800be33369c07418ec9fe483d66596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a2ac5f2ecc99d80a71ff2ae820bf253') in 0.009430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004847 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Door_05.fbx
+  artifactKey: Guid(66b45fc1c95c01b45afce4e59373f3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Door_05.fbx using Guid(66b45fc1c95c01b45afce4e59373f3e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fd5d9cdc69a9505caadd0cc7c94e06c') in 0.009652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029431 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/HouseWood.fbx
+  artifactKey: Guid(ff3110a9c5f0de340963090f641f3aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/HouseWood.fbx using Guid(ff3110a9c5f0de340963090f641f3aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be8cea0ee8a37fc2dd976cfa628416d') in 0.011367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017192 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Raling_01.fbx
+  artifactKey: Guid(ecbc7302ab4e63f458be10f3388c4538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Raling_01.fbx using Guid(ecbc7302ab4e63f458be10f3388c4538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c7c4466e45d31217a3d2c15b6f310e4') in 0.013131 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014410 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Raling_02.fbx
+  artifactKey: Guid(c42682a8af715f941a020910ef144c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Raling_02.fbx using Guid(c42682a8af715f941a020910ef144c80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '795018d6f123289681d06fd00118f4d7') in 0.011418 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015052 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Stairs_01.fbx
+  artifactKey: Guid(a367fcbdac842b042b32416330d1e1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Stairs_01.fbx using Guid(a367fcbdac842b042b32416330d1e1cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000b7ce22bd99d190d5cd9fb1c3540c0') in 0.009469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021746 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Stairs_02.fbx
+  artifactKey: Guid(0e9d994f00875874fa50a386a6cc4414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Stairs_02.fbx using Guid(0e9d994f00875874fa50a386a6cc4414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b334e5a464ae5416d5fe7fa643473f') in 0.009879 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018736 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Stairs_03.fbx
+  artifactKey: Guid(3fb39c3ed28b07748b9a1b36e2c99694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Stairs_03.fbx using Guid(3fb39c3ed28b07748b9a1b36e2c99694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2dfddccb704f90cc44bba28673a1cd12') in 0.009786 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011996 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/StairsPart_01.fbx
+  artifactKey: Guid(26e143e11b2bd5249ad2a1ec0f2fe5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/StairsPart_01.fbx using Guid(26e143e11b2bd5249ad2a1ec0f2fe5a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '862f3dddf245bd282e8105dae3ce191f') in 0.009369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020099 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/StairsPart_02.fbx
+  artifactKey: Guid(1001cb4d60d71734e8cef76db5285369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/StairsPart_02.fbx using Guid(1001cb4d60d71734e8cef76db5285369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c50b09fa6622a19b58c301348caaef4b') in 0.009538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026239 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/StairsPart_03.fbx
+  artifactKey: Guid(9805150098502cd46a4160015e7662d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/StairsPart_03.fbx using Guid(9805150098502cd46a4160015e7662d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fd7c4c21271958a971db4a57cab691') in 0.009632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017964 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_01.fbx
+  artifactKey: Guid(c3e22f7865196734587618871a076b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_01.fbx using Guid(c3e22f7865196734587618871a076b41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b441a11302884d9b451cb7419422d86') in 0.011253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014416 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_02.fbx
+  artifactKey: Guid(b8561b32a6db661488bb631675bbdbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_02.fbx using Guid(b8561b32a6db661488bb631675bbdbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9143130c1b8da17f1d36fecfb18238') in 0.011796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016330 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_03.fbx
+  artifactKey: Guid(10a796ea8e3f36c478bf7c76f70faabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_03.fbx using Guid(10a796ea8e3f36c478bf7c76f70faabd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a109eee3fa9a23914513894bff74d40') in 0.013077 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021852 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_04.fbx
+  artifactKey: Guid(633e299012850224ca7f120ceee9bde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_04.fbx using Guid(633e299012850224ca7f120ceee9bde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f90eaf7fbc88cbc91714ddb595800561') in 0.012152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021403 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_05.fbx
+  artifactKey: Guid(6fb73bcdda47cdb4b89c5a91971e88f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_05.fbx using Guid(6fb73bcdda47cdb4b89c5a91971e88f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a4a92580fdda3de15453e1faf245525') in 0.012456 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.931027 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_06.fbx
+  artifactKey: Guid(16a158667568be14aa434df0d1c51b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_06.fbx using Guid(16a158667568be14aa434df0d1c51b1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd23550d43743426c00faf3776c5192e6') in 0.031220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028030 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_08.fbx
+  artifactKey: Guid(ef395fc7e4ffdb540a577bee35adaef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_08.fbx using Guid(ef395fc7e4ffdb540a577bee35adaef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c974437a73c0c2c6ca533a86594a82fb') in 0.046570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_09.fbx
+  artifactKey: Guid(6373c28ac5a8be84aa1bafd53326483c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_09.fbx using Guid(6373c28ac5a8be84aa1bafd53326483c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6877344caefdd6762e0b5d3a8dc3d5') in 0.011841 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001487 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_10.fbx
+  artifactKey: Guid(b7f19e557e3a89d4caf330eb23139a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_10.fbx using Guid(b7f19e557e3a89d4caf330eb23139a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2984d9c3935f08369458f8e957dea7b8') in 0.012139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007035 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_11.fbx
+  artifactKey: Guid(9b51028656dece442b4ab1537ea01634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_11.fbx using Guid(9b51028656dece442b4ab1537ea01634) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63393087d9aee22b712bc181bc0b27e8') in 0.013121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015702 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_12.fbx
+  artifactKey: Guid(bf6110bf95cef6f4a9c9648a68d01b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_12.fbx using Guid(bf6110bf95cef6f4a9c9648a68d01b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a882442f4e557679aab99e0318261ca') in 0.012662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026407 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/Wall_13.fbx
+  artifactKey: Guid(bcc55a9b80f451c43a729c7acc5d5335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/Wall_13.fbx using Guid(bcc55a9b80f451c43a729c7acc5d5335) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b3ffc7a9a23e52b890f0dc7a11ab33') in 0.013559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015493 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_01.fbx
+  artifactKey: Guid(a1fa623d898137d43bbdb507adb58d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_01.fbx using Guid(a1fa623d898137d43bbdb507adb58d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28aca0dfafebf48beb4e79a6ad3a224') in 0.011551 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015119 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_02.fbx
+  artifactKey: Guid(7003c4b029811f4499a1b2b2591d78c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_02.fbx using Guid(7003c4b029811f4499a1b2b2591d78c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fec039c4f198395a0cdf1af5148ab005') in 0.012570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010255 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_03.fbx
+  artifactKey: Guid(3e478806576b9df49a3c60a05a2019fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_03.fbx using Guid(3e478806576b9df49a3c60a05a2019fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e00c629dd0fa047540e66ae4850aa3a8') in 0.011274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016653 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_04.fbx
+  artifactKey: Guid(cdb160f788397154184ee3033c0f3d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_04.fbx using Guid(cdb160f788397154184ee3033c0f3d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c572a7b12ef6b18c39758ab0b17de98') in 0.012559 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015911 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_05.fbx
+  artifactKey: Guid(bf8464ce15d0956478e955f5979f5c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_05.fbx using Guid(bf8464ce15d0956478e955f5979f5c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42022499a0b493b064db6e714b10aa30') in 0.011157 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015952 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_06.fbx
+  artifactKey: Guid(78dc77fde52cf1e41bdd98aac841db86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_06.fbx using Guid(78dc77fde52cf1e41bdd98aac841db86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '555da7c956f7caa6bf34d94d271d63c9') in 0.013111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019071 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_07.fbx
+  artifactKey: Guid(780070ebcdeecac468681e35c4e16e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_07.fbx using Guid(780070ebcdeecac468681e35c4e16e1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da83bb85441f674bf45a9862d1eda9e') in 0.015279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024590 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_08.fbx
+  artifactKey: Guid(b63af86f7f25f7c43bd381fe8cefbdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_08.fbx using Guid(b63af86f7f25f7c43bd381fe8cefbdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ddef6d3894723a9d3f03794d24eba2d') in 0.018925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010193 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_09.fbx
+  artifactKey: Guid(a30534bd8738fbf40927daee6e6d70b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_09.fbx using Guid(a30534bd8738fbf40927daee6e6d70b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b85e91552c134b9e5aaf107e8868a91') in 0.021343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023898 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_11.fbx
+  artifactKey: Guid(662c9f3773b13ac4c8bd5668202a214a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_11.fbx using Guid(662c9f3773b13ac4c8bd5668202a214a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3663aed626b9e8c019a7dfcdf4859a8') in 0.019745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor1_12.fbx
+  artifactKey: Guid(32b9730ff696841459776efb5d459a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor1_12.fbx using Guid(32b9730ff696841459776efb5d459a47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc38372ffe3aa6ed067fd835e04b2a9') in 0.012389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007465 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_01.fbx
+  artifactKey: Guid(197ea69f555c1894295e72c82306aab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_01.fbx using Guid(197ea69f555c1894295e72c82306aab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b1b19c6b7f1f217404f38af53423316') in 0.011180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017730 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_02.fbx
+  artifactKey: Guid(f98746aacc8d49d49b899d2935062f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_02.fbx using Guid(f98746aacc8d49d49b899d2935062f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e12433298ea687b2dc7146b1ad4141b') in 0.012067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026839 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_03.fbx
+  artifactKey: Guid(271043eb1d805b348bfa18263eebbe9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_03.fbx using Guid(271043eb1d805b348bfa18263eebbe9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f92b446b37823c53703df1dc161a34df') in 0.011515 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016730 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_04.fbx
+  artifactKey: Guid(bc7149e60be52f64cb19336fb13e5fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_04.fbx using Guid(bc7149e60be52f64cb19336fb13e5fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f559a158d3f60e0df210fe946bdbc24') in 0.012248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015558 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_05.fbx
+  artifactKey: Guid(f714dcb6d845e684da1dfc011ff54b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_05.fbx using Guid(f714dcb6d845e684da1dfc011ff54b2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5402bf12d44e65b744cf4cdb91b6f6a5') in 0.012138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016347 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_06.fbx
+  artifactKey: Guid(e59f6463627cd5749b3b8fa65aaa67d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_06.fbx using Guid(e59f6463627cd5749b3b8fa65aaa67d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028bdab66e10785eb1ef6ce1463ff2c7') in 0.012293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015251 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_07.fbx
+  artifactKey: Guid(8401f6df1653f814b961b6f9835358cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_07.fbx using Guid(8401f6df1653f814b961b6f9835358cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b47e4c7c416ba9681385e080a689fed2') in 0.011322 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013694 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_08.fbx
+  artifactKey: Guid(6d47d6a8687c08542a555e2e5a519089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_08.fbx using Guid(6d47d6a8687c08542a555e2e5a519089) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f50189017092a476b7f1cb733877376') in 0.011730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014202 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_09.fbx
+  artifactKey: Guid(7d0ea26a5f5b8144b961f465631b8f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_09.fbx using Guid(7d0ea26a5f5b8144b961f465631b8f0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55b8d7892e44cf700c0ec7eb578f3c8') in 0.012633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.019000 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_10.fbx
+  artifactKey: Guid(280d8431f1a7d174cae54da88fee1e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_10.fbx using Guid(280d8431f1a7d174cae54da88fee1e7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59cb785aaab36fc6c956b1584dcf7377') in 0.011982 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022374 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_11.fbx
+  artifactKey: Guid(9c75bd00bb506ce4291489148156c791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_11.fbx using Guid(9c75bd00bb506ce4291489148156c791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '599376452a02de2ad689c37a22d7d506') in 0.011722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016272 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_12.fbx
+  artifactKey: Guid(e4bbc49817a97a4429ac4157cc2f5af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_12.fbx using Guid(e4bbc49817a97a4429ac4157cc2f5af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f488a33988f9030c2f66cf28473216') in 0.012287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015698 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_13.fbx
+  artifactKey: Guid(e0bff9cf41eb1a041b4995eb38921843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_13.fbx using Guid(e0bff9cf41eb1a041b4995eb38921843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a62a252d189526c14c666610bf269b4c') in 0.011307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015907 seconds.
+  path: Assets/LowPolyInterior/Models/Walls/WallFloor2_14.fbx
+  artifactKey: Guid(f9fc4f416b1f7a846b7c7cee55f8fa9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Models/Walls/WallFloor2_14.fbx using Guid(f9fc4f416b1f7a846b7c7cee55f8fa9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1801c4938f53fbbcf6ea7ad02ed6642a') in 0.010898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.127829 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls
+  artifactKey: Guid(96d1790085b404149b7cdc0a27af83bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls using Guid(96d1790085b404149b7cdc0a27af83bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7074662512c58ff967e281100f59fe') in 0.004179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.142382 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Room
+  artifactKey: Guid(3e0f05036de94cf4d9c6c46510e5e1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Room using Guid(3e0f05036de94cf4d9c6c46510e5e1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06fcbc70259df4b3e418885ccb5df0e') in 0.004557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.896315 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_01.prefab
+  artifactKey: Guid(f81958cc773151948a12de891eac452c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_01.prefab using Guid(f81958cc773151948a12de891eac452c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0eb259eef3e01127e036d288536ff281') in 0.008582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.707445 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_02.prefab
+  artifactKey: Guid(54d342dea205a6b448cd6f206dda6556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_02.prefab using Guid(54d342dea205a6b448cd6f206dda6556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2edd7f188ad389920c9c06d4ba4ad907') in 0.010448 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.488001 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_03.prefab
+  artifactKey: Guid(2179433bdb76c284296114c2c707a3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_03.prefab using Guid(2179433bdb76c284296114c2c707a3e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a49b16ba8f7e6ae48da0ace8a79b04ff') in 0.008528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022811 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_04.prefab
+  artifactKey: Guid(ab45cf218b65b834da864bb58a4da71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_04.prefab using Guid(ab45cf218b65b834da864bb58a4da71e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89e8cd1e2e60681dc7e5408680fd2b51') in 0.008954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.033453 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_05.prefab
+  artifactKey: Guid(f05ce2400606b674db9ea3eb48756eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_05.prefab using Guid(f05ce2400606b674db9ea3eb48756eb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30b81425502e672b68ddd3e618c076fc') in 0.009010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013912 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_06.prefab
+  artifactKey: Guid(44e8169a1d54a5842bc41ec58713de9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_06.prefab using Guid(44e8169a1d54a5842bc41ec58713de9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72799ca9b8f1cf7e536722903dd4ce0b') in 0.008339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024145 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_07.prefab
+  artifactKey: Guid(beb8ae7841b363142a5c33266d3d4ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_07.prefab using Guid(beb8ae7841b363142a5c33266d3d4ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f261d8bfeef3e9a73934ad65f8ace8') in 0.009900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012616 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_08.prefab
+  artifactKey: Guid(e8957d7b9ab7f314d99f493d206ac74d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_08.prefab using Guid(e8957d7b9ab7f314d99f493d206ac74d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '417129e3174ba8a13d9d862a6bf17b45') in 0.008106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014664 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_09.prefab
+  artifactKey: Guid(71ec3ba91ad10c8488eccf9334b8f15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_09.prefab using Guid(71ec3ba91ad10c8488eccf9334b8f15e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fca5998b67cbb1f4111065157b0e21f') in 0.007970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023286 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_10.prefab
+  artifactKey: Guid(f97a40620c15d444896f54624cd30e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_10.prefab using Guid(f97a40620c15d444896f54624cd30e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18e4480e96794d416c9883645c16f03') in 0.008230 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013952 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_11.prefab
+  artifactKey: Guid(8a1004413bf41e4478db18a47e88e828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_11.prefab using Guid(8a1004413bf41e4478db18a47e88e828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a8d005d8a026c661dd1911016962e8d') in 0.009753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021319 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_12.prefab
+  artifactKey: Guid(3ce12f0960e6dcd4fbe61205075c8199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_12.prefab using Guid(3ce12f0960e6dcd4fbe61205075c8199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0741d3e3c3d0ac145b5290d5b5ba5ce5') in 0.008264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029417 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_13.prefab
+  artifactKey: Guid(3e4736189c127ed4d9a7bbdf159b4ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_13.prefab using Guid(3e4736189c127ed4d9a7bbdf159b4ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ce98d316af73f38ae98495f2b9e5ea2') in 0.008433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022519 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_14.prefab
+  artifactKey: Guid(4149ec64abe8897499b33b0c0fbff661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_14.prefab using Guid(4149ec64abe8897499b33b0c0fbff661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55ae801b444e0c3aed43569dc2182be') in 0.008479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014307 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_15.prefab
+  artifactKey: Guid(85227376b6155664e8bf19e48213e0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_15.prefab using Guid(85227376b6155664e8bf19e48213e0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7748f17712c28e51b843c4453baa4e1b') in 0.008874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021580 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Corner_16.prefab
+  artifactKey: Guid(3f457c64980c25b429a123ccd9922abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Corner_16.prefab using Guid(3f457c64980c25b429a123ccd9922abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a6a242e93e3e029db3c735637875c63') in 0.008215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030795 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Door_01.prefab
+  artifactKey: Guid(1e1208a9041e8a946871d3c413727c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Door_01.prefab using Guid(1e1208a9041e8a946871d3c413727c85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '809fcb996a1f91d505e2f84dcfc2ed7b') in 0.008408 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005777 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Door_02.prefab
+  artifactKey: Guid(6bb0ce06f9c3aca4a9c81cfa2bc4fbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Door_02.prefab using Guid(6bb0ce06f9c3aca4a9c81cfa2bc4fbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434c07e9b6e4c8440d750e792da185ac') in 0.008452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016508 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Door_03.prefab
+  artifactKey: Guid(0a61b0710770f74469c79b1cb6fe033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Door_03.prefab using Guid(0a61b0710770f74469c79b1cb6fe033b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a11277cc8fa58605ed174d4ce90821c') in 0.011548 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020665 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Door_04.prefab
+  artifactKey: Guid(ae1544b139f9fe649bb642d26474d617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Door_04.prefab using Guid(ae1544b139f9fe649bb642d26474d617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4d2b4d0b1cc48debefcbb59bf08898') in 0.008017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024894 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Door_05.prefab
+  artifactKey: Guid(e5f53f3e0e1518c4c9ec3be6d16f67b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Door_05.prefab using Guid(e5f53f3e0e1518c4c9ec3be6d16f67b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc923baa9ea196f81d3f48a928a785c5') in 0.008155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022480 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/HouseWood.prefab
+  artifactKey: Guid(08f30d091e050984e903526e8caa0846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/HouseWood.prefab using Guid(08f30d091e050984e903526e8caa0846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f73b372903baa2fb56065a25aaf399bc') in 0.008247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014337 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Raling_01.prefab
+  artifactKey: Guid(c4d8685008a80b84387845e1a92c4cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Raling_01.prefab using Guid(c4d8685008a80b84387845e1a92c4cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c773610b8e1d11cb6a971bd253d6a39f') in 0.008976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022551 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Raling_02.prefab
+  artifactKey: Guid(e32ee4bfb9a4ce0479e228742a692175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Raling_02.prefab using Guid(e32ee4bfb9a4ce0479e228742a692175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7445d85f74ef27aecc1c1dc631933f80') in 0.008081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014987 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Stairs_01.prefab
+  artifactKey: Guid(6042bae078284914db7198ad81d629e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Stairs_01.prefab using Guid(6042bae078284914db7198ad81d629e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32ff5be7247b31dcbd946dc714125e9d') in 0.010149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020601 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Stairs_02.prefab
+  artifactKey: Guid(93fd8d013f9329241a4bcd27ca2f3f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Stairs_02.prefab using Guid(93fd8d013f9329241a4bcd27ca2f3f23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14bbd0cc4ba5b4a3cd38f2edd835aa85') in 0.008844 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013253 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Stairs_03.prefab
+  artifactKey: Guid(255d2751c30d75e448bf7813951df7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Stairs_03.prefab using Guid(255d2751c30d75e448bf7813951df7d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e79bfe433d70c6cdba77602efb6e854') in 0.008509 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.031811 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/StairsPart_01.prefab
+  artifactKey: Guid(bbe392a0da712f246b1786eb3d8404c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/StairsPart_01.prefab using Guid(bbe392a0da712f246b1786eb3d8404c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92286b22e4ba8712e1e5cbbb28a5da1f') in 0.008319 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025319 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/StairsPart_02.prefab
+  artifactKey: Guid(9d4072aa46ee4664f9e839a427ae6a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/StairsPart_02.prefab using Guid(9d4072aa46ee4664f9e839a427ae6a05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a9933375c423fc07d7a3ec537984f41') in 0.008423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026060 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/StairsPart_03.prefab
+  artifactKey: Guid(57cf825ea2534de4dadb2371e70d6fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/StairsPart_03.prefab using Guid(57cf825ea2534de4dadb2371e70d6fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6752719cb160682d3eee4894842c4d2e') in 0.010511 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004695 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_01.prefab
+  artifactKey: Guid(9412bd657b5a2c849af486db084a931a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_01.prefab using Guid(9412bd657b5a2c849af486db084a931a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '973146841bb84143f5fa820525c92143') in 0.009930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.411806 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_02.prefab
+  artifactKey: Guid(0f80c43d1256c074e90610be31a81ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_02.prefab using Guid(0f80c43d1256c074e90610be31a81ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5690a22662c165bfb8d6331cffc2fd57') in 0.008313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.465912 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_03.prefab
+  artifactKey: Guid(4b93f746f39ddf240a41cc57b41e1887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_03.prefab using Guid(4b93f746f39ddf240a41cc57b41e1887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66694b46a4cfd876af5e283980f9a7a8') in 0.008997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.316425 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_04.prefab
+  artifactKey: Guid(417f7e4e3eb6b2c408eb05d5f7f470ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_04.prefab using Guid(417f7e4e3eb6b2c408eb05d5f7f470ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd114d307a5b1e4d78ea7dd844d49e2d5') in 0.009644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.256383 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_05.prefab
+  artifactKey: Guid(1999455e1cb56184e86c5815e85927f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_05.prefab using Guid(1999455e1cb56184e86c5815e85927f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd31a2bd18b2e45c3e66fedcb6fc8b726') in 0.009607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.195219 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_06.prefab
+  artifactKey: Guid(819d4b273f1ba064c83268a2e81b361f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_06.prefab using Guid(819d4b273f1ba064c83268a2e81b361f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '924eb0683be7ad4f0371015ed4b4e77d') in 0.018356 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.207369 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_07.prefab
+  artifactKey: Guid(c7c5366c02b019c4b977fa4c5d4d8e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_07.prefab using Guid(c7c5366c02b019c4b977fa4c5d4d8e58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c4912749f4c0621eb2f1eb614e219c') in 0.017441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.147005 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_08.prefab
+  artifactKey: Guid(2cae973dc823e214986a657dbeefe9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_08.prefab using Guid(2cae973dc823e214986a657dbeefe9bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c68facfa91a8e5b5671691c39e42933') in 0.018104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.141540 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_09.prefab
+  artifactKey: Guid(793142e941b64794eab6e10b2f87820d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_09.prefab using Guid(793142e941b64794eab6e10b2f87820d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '054d637a41adc9a5f414e64c648d98c7') in 0.008736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.152950 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_10.prefab
+  artifactKey: Guid(f9c7cd5d014f09143a2eefd9396e6628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_10.prefab using Guid(f9c7cd5d014f09143a2eefd9396e6628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4423f81eeb7d1f9865a14c47d175a662') in 0.008939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.114807 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_11.prefab
+  artifactKey: Guid(785993f073bbf8a4a9b498b76eed029e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_11.prefab using Guid(785993f073bbf8a4a9b498b76eed029e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2af24656b3c11e34eb1ae79b485add7') in 0.009567 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.127501 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_12.prefab
+  artifactKey: Guid(980780a2c1f60f943810cc360d68308f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_12.prefab using Guid(980780a2c1f60f943810cc360d68308f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ead35dd0fefaac216cee31131d91719') in 0.007976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.126771 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/Wall_13.prefab
+  artifactKey: Guid(081dc4f08fbc04e4fbe7c287a49829f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/Wall_13.prefab using Guid(081dc4f08fbc04e4fbe7c287a49829f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a9a604f4be888fcc95bbe361982c808') in 0.009149 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.131842 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_01.prefab
+  artifactKey: Guid(5b99f53fe6b04ce4cb2e6988422ee42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_01.prefab using Guid(5b99f53fe6b04ce4cb2e6988422ee42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd892cbcb89cf97c1423d0660d67b2a') in 0.009020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.499750 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_02.prefab
+  artifactKey: Guid(47b5d483155e5ca4b97a825651e457cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_02.prefab using Guid(47b5d483155e5ca4b97a825651e457cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9076663257918407a8eeb468a571a7') in 0.008966 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022673 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_03.prefab
+  artifactKey: Guid(9c69e26437860ec45953224eed28846c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_03.prefab using Guid(9c69e26437860ec45953224eed28846c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8b4437a691ca7aadf7422f2ef9008ff') in 0.009044 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014850 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_04.prefab
+  artifactKey: Guid(2b8bddb6e6dd3e04fb7e0e8ba9fcc711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_04.prefab using Guid(2b8bddb6e6dd3e04fb7e0e8ba9fcc711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a703f60fb5650325d967b6cbf875ce31') in 0.007624 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022616 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_05.prefab
+  artifactKey: Guid(d5fdd893efe98eb4e9e37cf920d12da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_05.prefab using Guid(d5fdd893efe98eb4e9e37cf920d12da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e63e629e6e96a5913ff6b062cd73e4c') in 0.007975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016013 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_06.prefab
+  artifactKey: Guid(2fd3ee0389fc8cb4c9f6314bd779afb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_06.prefab using Guid(2fd3ee0389fc8cb4c9f6314bd779afb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '963694d305eb46b678b5a4093b5aef19') in 0.007668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014723 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_07.prefab
+  artifactKey: Guid(63d544222d52ec8449d86ff13bdb56aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_07.prefab using Guid(63d544222d52ec8449d86ff13bdb56aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b839415beaacce629a411a9ce13e579f') in 0.007817 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023006 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_08.prefab
+  artifactKey: Guid(7010435c7440e3b43add238e9b670d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_08.prefab using Guid(7010435c7440e3b43add238e9b670d5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4bd87140922d761ec47d6a2bd7a276') in 0.008148 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028884 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_09.prefab
+  artifactKey: Guid(5f3a38d534e5b9a4fa9cd3b3ec81dfb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_09.prefab using Guid(5f3a38d534e5b9a4fa9cd3b3ec81dfb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1db007b53e540014f5f6facd5e57ff08') in 0.007529 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023640 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_10.prefab
+  artifactKey: Guid(952b28cd484d82f4bb9b8b7ddca613af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_10.prefab using Guid(952b28cd484d82f4bb9b8b7ddca613af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eedf058ca5ba0e20524bb6279cd95062') in 0.007886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014018 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_11.prefab
+  artifactKey: Guid(866662877bcd661468431501da0a5322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_11.prefab using Guid(866662877bcd661468431501da0a5322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2c2b666e236673b32dac7f66b2be68c') in 0.007576 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023154 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_12.prefab
+  artifactKey: Guid(9c0fbda2d76f3b8408107821d81efc7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor1_12.prefab using Guid(9c0fbda2d76f3b8408107821d81efc7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56606249c9f072f80790a002d8279f9e') in 0.007782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 260.030881 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_01.prefab
+  artifactKey: Guid(3f11fa8fbabd2df418160d46e55e6feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_01.prefab using Guid(3f11fa8fbabd2df418160d46e55e6feb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c967640bd408ec824d77e6b40673c2') in 0.008970 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021016 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_02.prefab
+  artifactKey: Guid(ae0576c01c6f3434ea461366d13d9b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_02.prefab using Guid(ae0576c01c6f3434ea461366d13d9b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7a8d03e7f5b79de1d5a065a87d3dce') in 0.008219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014254 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_03.prefab
+  artifactKey: Guid(83044d516daa01f48880119f759b5243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_03.prefab using Guid(83044d516daa01f48880119f759b5243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a18892be4037a6d887ebbf8d2774f22d') in 0.008716 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022064 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_04.prefab
+  artifactKey: Guid(21d4564128a7bb04681c9f29c343e0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_04.prefab using Guid(21d4564128a7bb04681c9f29c343e0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c39e906cdf8f4305f32af2502cf15fb9') in 0.008641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028169 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_05.prefab
+  artifactKey: Guid(bc79b4c0d4a580144aeb0f6d1051aa31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_05.prefab using Guid(bc79b4c0d4a580144aeb0f6d1051aa31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2380ef2fa5848a7c9212f7668d249a7f') in 0.008446 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027957 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_06.prefab
+  artifactKey: Guid(0dc1abd4a2b3abe4d80fdc68004b85ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_06.prefab using Guid(0dc1abd4a2b3abe4d80fdc68004b85ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07b4ed5df10ac18cbf203d1566868c85') in 0.008453 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014266 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_07.prefab
+  artifactKey: Guid(946edefe9c143434ebd88d7568c0e742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_07.prefab using Guid(946edefe9c143434ebd88d7568c0e742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22f5bf5812d49022fbcbe7b164810f92') in 0.008524 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016388 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_08.prefab
+  artifactKey: Guid(db506a0b4ba88964bb5e5aa63dd23461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_08.prefab using Guid(db506a0b4ba88964bb5e5aa63dd23461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79941849262636bb7d7d1dfe6579094a') in 0.007950 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023445 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_09.prefab
+  artifactKey: Guid(69bab43b8cb94154396784450d48f242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_09.prefab using Guid(69bab43b8cb94154396784450d48f242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a75574fea37d9c2c2a4a4c726d5ecb0') in 0.009037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013583 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_10.prefab
+  artifactKey: Guid(cda6c464330565441ad7d1a33b233519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_10.prefab using Guid(cda6c464330565441ad7d1a33b233519) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10c8dd1584af5d1bac7e5cecc3664962') in 0.008128 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022514 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_11.prefab
+  artifactKey: Guid(5047e8fa0c69072478a0c0a98400ce1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_11.prefab using Guid(5047e8fa0c69072478a0c0a98400ce1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a925b73ee44e01496ceaca0dd90687') in 0.008838 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013231 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_12.prefab
+  artifactKey: Guid(49e8575f00b0e014980d10d8bb2cc1d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_12.prefab using Guid(49e8575f00b0e014980d10d8bb2cc1d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f7b90846acd07eacac8fe1fd690c674') in 0.008247 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030297 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_13.prefab
+  artifactKey: Guid(01b818ecff038254b9f7771e4ee98b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_13.prefab using Guid(01b818ecff038254b9f7771e4ee98b3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddfd869e4b84346425d1068ff50f7b92') in 0.008537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022450 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_14.prefab
+  artifactKey: Guid(12cff3981ab14f64b8a13643ba5141f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_14.prefab using Guid(12cff3981ab14f64b8a13643ba5141f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a0c3643ae3430024f89bcfab8c3517b') in 0.008289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014072 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_15.prefab
+  artifactKey: Guid(95d9a3adc0f12e145bed59faef1958a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_15.prefab using Guid(95d9a3adc0f12e145bed59faef1958a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7737706eea63fa3c6e3d02e906e13cb8') in 0.010031 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023856 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_16.prefab
+  artifactKey: Guid(5febecd3764126d4d98fde851e0b4e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_16.prefab using Guid(5febecd3764126d4d98fde851e0b4e45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4b3a33ebfe92210a5a016c52e3b65e9') in 0.009052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023279 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_17.prefab
+  artifactKey: Guid(4074e3cdd8bd7c344bfe67b5d4d7ec43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_17.prefab using Guid(4074e3cdd8bd7c344bfe67b5d4d7ec43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50612831971157f9e38fcac5fb19378f') in 0.008947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006803 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_18.prefab
+  artifactKey: Guid(a936d43848397ec40974cbd484dd35b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_18.prefab using Guid(a936d43848397ec40974cbd484dd35b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '866e2e84605c2d1f9368233c7f5cf80a') in 0.008889 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016639 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_19.prefab
+  artifactKey: Guid(5b6ea8797cbddec469b611f3d453b396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_19.prefab using Guid(5b6ea8797cbddec469b611f3d453b396) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '987d667d8c7b0cb3f1da9950077de8e0') in 0.008890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016962 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_20.prefab
+  artifactKey: Guid(47c46d97d67148d4aaf24b84e231994d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_20.prefab using Guid(47c46d97d67148d4aaf24b84e231994d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67302e0b671801b09ecdd344a28d48c7') in 0.008987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.032168 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_21.prefab
+  artifactKey: Guid(7da390af57f6d3541bac86610b7bd4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_21.prefab using Guid(7da390af57f6d3541bac86610b7bd4ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4146f69527208a18a90abc450f8a42af') in 0.009894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021721 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_22.prefab
+  artifactKey: Guid(d534dd241856e5f4c8a4e3636aa81155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_22.prefab using Guid(d534dd241856e5f4c8a4e3636aa81155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe31122c144b47cfcd20e33a5b4808bd') in 0.009042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013094 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_23.prefab
+  artifactKey: Guid(976cba073da831f4bb6934aa26e4d300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_23.prefab using Guid(976cba073da831f4bb6934aa26e4d300) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b8e38496ccd0c544eeed0358b12e059') in 0.009238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022938 seconds.
+  path: Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_24.prefab
+  artifactKey: Guid(118ab69560f05304794dbfa8f5ed143b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyInterior/Prefabs/Walls/WallFloor2_24.prefab using Guid(118ab69560f05304794dbfa8f5ed143b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2beab0f61725e9ba95b6c690b2587466') in 0.008734 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 560.227548 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.004778 seconds 
